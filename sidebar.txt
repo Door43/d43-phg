@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[phg:home|Door43 (phg)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-phg|d43-phg repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-phg/archive/master.zip|d43-phg.zip]]
+
+**Recent Changes**
+{{changes>ns = phg}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/phg|Ethnologue data]]
+
